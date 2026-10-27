@@ -1,0 +1,485 @@
+[33mcommit b21644fa845a14f68391f9307661f6eda34c391c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/nupoor[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Nupoor <nupoorwalke@gmail.com>
+Date:   Sun Oct 25 09:44:35 2026 +0530
+
+    modified readme
+
+[33mcommit 2a26d53159350c16cfc4bf99271eeebbc2558e11[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 20 14:54:01 2024 +0530
+
+    Update README.md
+
+[33mcommit 41d3cc4bc05fb9bd36b0d98962d1ac28a5767e8f[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 20 10:18:07 2024 +0530
+
+    Update main.tf
+
+[33mcommit 12918096dd90285f3ee6f6f14fd4590e3bf309fe[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 20 06:45:08 2024 +0530
+
+    Update README.md
+
+[33mcommit 77eeddf721d03ca42324b84a7d365dc1a11a82ae[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 20 06:44:09 2024 +0530
+
+    Update README.md
+
+[33mcommit 8ea79a529f88c33479d18e11d361a6d6acb64960[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:59:12 2024 +0530
+
+    Update README.md
+
+[33mcommit 9eaec5b7ef99db571b586ac634052d7c992f1cae[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:58:20 2024 +0530
+
+    Add files via upload
+
+[33mcommit 16f03c6221b5978bb78d57ccf406a343067c05fc[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:51:22 2024 +0530
+
+    Update README.md
+
+[33mcommit f64f12483912d368c72b84e6104e56a4457122c1[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:49:02 2024 +0530
+
+    Update README.md
+
+[33mcommit 37cd4bb191698a525b440767cff1f449df50940b[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:47:54 2024 +0530
+
+    Update README.md
+
+[33mcommit 8e61b99dbf87fcbc825a598914b9e1534867b61d[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:44:37 2024 +0530
+
+    Update README.md
+
+[33mcommit 0287e626b199574fd540b8a05aca71ad8c8e0741[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:41:55 2024 +0530
+
+    Update README.md
+
+[33mcommit be07ea8a7e8725df12a0006785af062743d2c2c5[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:41:04 2024 +0530
+
+    Update README.md
+
+[33mcommit fa790b0de8aa947e742e1e25281cb7ad971709b0[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:38:34 2024 +0530
+
+    Project_write-up file
+
+[33mcommit d789a16863928cd6445ab6d9ace341eea8b2443e[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:37:43 2024 +0530
+
+    Delete Project_WriteUp.docx
+
+[33mcommit 7a689ccbc8cdd37f5fb6b18cd688845eeff10a39[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:05:31 2024 +0530
+
+    Delete version_pipeline
+
+[33mcommit 20c4b3418c29893e1325ee3707bc6be0f7dc7cdd[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:05:18 2024 +0530
+
+    Create deployment_eks
+
+[33mcommit 3dbb8c4404fd697f760b3f52389e305176b2f3e4[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:04:27 2024 +0530
+
+    Rename cleanup-pipeline to cleanup_pipeline
+
+[33mcommit ddde2cf3f842a5be14e85e4ece7a1833a7d42532[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:03:46 2024 +0530
+
+    Update version_pipeline
+
+[33mcommit 39e2819bde719b461a51544aeafc509459cd04fc[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:01:49 2024 +0530
+
+    Delete release_pipeline
+
+[33mcommit 8525e7e23002f892552d938faab932e09e630dd5[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:01:37 2024 +0530
+
+    Delete cleanup_pipeline
+
+[33mcommit f789084c6b1e1e588004fc68558e2cea0f0f18d5[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:01:13 2024 +0530
+
+    Create cleanup-pipeline
+
+[33mcommit de8e490523af637b073bb82755ad8a5928bf9db0[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:00:43 2024 +0530
+
+    Delete build_pipeline
+
+[33mcommit 940b28f8307abdc121e5fbb099bcdc4a74cc916b[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 23:00:17 2024 +0530
+
+    Create build_pipeline
+
+[33mcommit 0c93ecde5d5445c25a8f1e6939c53400166eb2f4[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 22:59:32 2024 +0530
+
+    Create deployment_pipeline
+
+[33mcommit e1668e862091f2ab58a47213afa04b9b7efc2cda[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 19 22:57:28 2024 +0530
+
+    Update access.sh
+
+[33mcommit c9c890daeb863e6140b2b8f435ef19d90ade9d55[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Fri Oct 18 22:32:23 2024 +0530
+
+    Update eks.tf
+
+[33mcommit 067a6ff48f5f555607db422607f34c87ca8ccb7c[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Fri Oct 18 18:32:54 2024 +0530
+
+    Create access.sh
+
+[33mcommit 0c6e1d67d4fb55ed202abb41c2b6719f25005fb3[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Fri Oct 18 03:12:19 2024 +0530
+
+    Update main.tf
+
+[33mcommit b2bc8c94b857d88a3beb7b94fd8291301a281d4b[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Fri Oct 18 02:07:13 2024 +0530
+
+    Update build_pipeline
+
+[33mcommit 0f5c7e42d4dd5a732a2fbd96efff968e8ca5c4f1[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Fri Oct 18 01:43:58 2024 +0530
+
+    Update build_pipeline
+
+[33mcommit 0e522a9c057bc2857bac22cd74289df18788cd64[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Fri Oct 18 01:43:22 2024 +0530
+
+    Update build_pipeline
+
+[33mcommit a9d2fd24564ce6981679b67a14311b5ad2933592[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Fri Oct 18 01:31:18 2024 +0530
+
+    Update build_pipeline
+
+[33mcommit b3fbc47b079a33bdffe601d50736c891608a44f7[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Tue Oct 8 12:01:12 2024 +0530
+
+    Update build_pipeline
+
+[33mcommit 9b17b8fdb7adb007029fc3af42aa888f14de9bcf[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Tue Oct 8 11:46:44 2024 +0530
+
+    Update build_pipeline
+
+[33mcommit 6670d93924dac6c2fa61f7cfcb2f9567c0c51fe7[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Mon Oct 7 19:46:17 2024 +0530
+
+    Update main.tf
+
+[33mcommit 22c3522faf3a82d2bb8875034941caa5b935180a[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Mon Oct 7 19:44:48 2024 +0530
+
+    Update main.tf
+
+[33mcommit 3df73c2191a6fa258e6d63862a5421f2e74215a7[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 21:00:00 2024 +0530
+
+    Create cleanup_pipeline
+
+[33mcommit e35767e8d4fc4777245b628cfa2dec79a023b2cd[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 19:49:21 2024 +0530
+
+    Update version_pipeline
+
+[33mcommit 519890d25a4f68c7393f01b39972c19becbd553f[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 19:49:01 2024 +0530
+
+    Update version_pipeline
+
+[33mcommit 7eb6dbc9fa6dabc8fa2c2bf39672d8ad2babaef6[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 19:46:10 2024 +0530
+
+    Update provider.tf
+
+[33mcommit 258a56e8f1960f3a76cc1b4cdf74cf440e6f613d[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 19:45:01 2024 +0530
+
+    Update build_pipeline
+
+[33mcommit b6ad9e81794008d7fbb005deef74f06ac6e5fa17[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 19:44:06 2024 +0530
+
+    Update build_pipeline
+
+[33mcommit 0f50d0f9bf0711129c1ec21b1b64c26be9080d7b[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 19:41:11 2024 +0530
+
+    Update build_pipeline
+
+[33mcommit 84b00a73e42f68493c710a9e94afcf3326812e0c[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 19:21:45 2024 +0530
+
+    Create version_pipeline
+
+[33mcommit 0a368577197f0c37b300672fe91b9ea11281776b[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 19:14:56 2024 +0530
+
+    Update service.yaml
+
+[33mcommit 096f9a26da3d62358a61964ec42155f1f038f009[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 19:14:22 2024 +0530
+
+    Update deployment.yaml
+
+[33mcommit 7c51c6c86ba4302e49c21269bf7c126b07691846[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 19:13:40 2024 +0530
+
+    Update main.tf
+
+[33mcommit 655f47cfc1b0228a0280ee18383842482191d67d[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 18:51:12 2024 +0530
+
+    Update release_pipeline
+
+[33mcommit 43ca8179ba9ee6c0c954962cc893fa53b2d1da32[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 18:18:02 2024 +0530
+
+    Update release_pipeline
+
+[33mcommit ec036849f382d34f007308dfbb106e07d75a8019[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 18:16:27 2024 +0530
+
+    Create release_pipeline
+
+[33mcommit b4b656da1891faa6da5ffce513bf9b374900b40d[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 18:08:24 2024 +0530
+
+    Update build_pipeline
+
+[33mcommit 8d4ed1bddf5af3659553ff855fbadc3cf76d02ef[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 18:07:59 2024 +0530
+
+    Update build_pipeline
+
+[33mcommit e8df4a519fa5c4990a07fc4fff2a5b652e36e65e[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 18:07:14 2024 +0530
+
+    Update build_pipeline
+
+[33mcommit 7c717ca6aa0adc05d1e6c5674f926f8f1522a590[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 16:34:43 2024 +0530
+
+    Update build_pipeline
+
+[33mcommit 7119229fdfceca8cdb814dd59426187f52b82d59[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 16:33:47 2024 +0530
+
+    Update build_pipeline
+
+[33mcommit 49c772ec1dd47a8c8bf44296a2a85faac7207a95[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 12:36:48 2024 +0530
+
+    Update README.md
+
+[33mcommit 0aa041d1b5d8f1b18e452e5a4a7c512180c0c181[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 12:35:54 2024 +0530
+
+    Delete terraform_code/ec2_server_code/variables.tf
+
+[33mcommit e9c8979dc1f138c32994d62973c11e1067862636[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 12:35:45 2024 +0530
+
+    Delete terraform_code/ec2_server_code/terraform.tfvars
+
+[33mcommit 02aae69dc5bc86c47b49f6430c00ba680fad3dca[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 12:35:36 2024 +0530
+
+    Delete terraform_code/ec2_server_code/setup.sh
+
+[33mcommit 3101b5b559b1188b7accf820ce15c6afcafdb095[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 12:35:26 2024 +0530
+
+    Delete terraform_code/ec2_server_code/main.tf
+
+[33mcommit 3ef09bea094a16ac21817b1359972ebc08dccaf5[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 12:35:07 2024 +0530
+
+    Create variables.tf
+
+[33mcommit 1bf62cfb0e899b3a38287c31db6aab82f964d9ff[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 12:34:36 2024 +0530
+
+    Create terraform.tfvars
+
+[33mcommit 377fe2536902b15466afac741d020eb031012e1e[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 12:34:10 2024 +0530
+
+    Create setup.sh
+
+[33mcommit 861cedb71a033be8852236bbb09504050929fa61[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 12:33:49 2024 +0530
+
+    Create main.tf
+
+[33mcommit b1c9490306b1e60f32676a51130ecae79a860e71[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 12:33:36 2024 +0530
+
+    Delete terraform_code/ec2_server_code/key.pem
+
+[33mcommit 3d9af173c752df4c01e4795b0b31f02a9c8c791b[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 12:32:38 2024 +0530
+
+    Update and rename Dockerfile.txt to Dockerfile
+
+[33mcommit c309a256a7c71a31a31554b467c64e4aad63ff1a[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 12:32:14 2024 +0530
+
+    Update and rename build_pipeline.txt to build_pipeline
+
+[33mcommit dd2801e9c63b1215f345713f476b5894afa5d39e[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 12:31:51 2024 +0530
+
+    Added_code_files
+
+[33mcommit 19702b074a5b8a68070751eeda9d3aa3c026f1a2[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sun Oct 6 12:26:59 2024 +0530
+
+    Amazon-Prime-Project
+
+[33mcommit 887760d19e71450ec5eae0f28dcf7ac2c33ae1e5[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 5 23:29:33 2024 +0530
+
+    Update service.yaml
+
+[33mcommit 91977f31f72699b733fb66fde9b5458e4f090ae2[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 5 23:03:25 2024 +0530
+
+    Update deployment.yaml
+
+[33mcommit 39ff5e3179e12a82cd98d2874e5f1c8f29516293[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 5 23:02:54 2024 +0530
+
+    Update service.yaml
+
+[33mcommit 83a0fe01273ff3a554fb271e7d327b18c5fed3d6[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Sat Oct 5 23:02:16 2024 +0530
+
+    Update deployment.yaml
+
+[33mcommit 1b86f0ee080c55f102abc6dd1fda67ef14532f94[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Tue Oct 1 08:11:52 2024 +0530
+
+    Update service.yaml
+
+[33mcommit 7ec3f64717995eca4c3e651ef6a5ab811422677d[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Tue Oct 1 08:11:37 2024 +0530
+
+    Update deployment.yaml
+
+[33mcommit 70e02cbbaf02db6952bbb6ae71dec92d895c63ba[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Tue Oct 1 08:06:53 2024 +0530
+
+    Update deployment.yaml
+
+[33mcommit 27fd1a02fd6b482503a5197e1e136b596d9bd173[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Tue Oct 1 08:06:40 2024 +0530
+
+    Update service.yaml
+
+[33mcommit 053fb84c1d3a3fec2dd92e06f939be3df6a6e54b[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Tue Oct 1 08:01:33 2024 +0530
+
+    Update deployment.yaml
+
+[33mcommit d630519d6a887c028617373607daf199d5639eae[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Tue Oct 1 07:52:36 2024 +0530
+
+    Create service.yaml
+
+[33mcommit ff8f025acc8b7fbeea9a5b21ecfe1b99774d6e59[m
+Author: PandaCloud <134182273+pandacloud1@users.noreply.github.com>
+Date:   Tue Oct 1 07:52:09 2024 +0530
+
+    Create deployment.yaml
